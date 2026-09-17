@@ -292,18 +292,18 @@ LIMIT 25
 
 ## Citation
 
-If you use Provlepsis4j, please cite our PVLDB demonstration paper. Page numbers and DOI will be added after the second camera-ready round.
+If you use Provlepsis4j, please cite our [demo paper](https://www.vldb.org/pvldb/vol19/p4770-gkartzios.pdf):
 
 ```bibtex
-@article{provlepsis4j,
-  title     = {Provlepsis4j: Querying Future Graphs in Neo4j},
-  author    = {Iliadis, Evangelos and Gkartzios, Christos and Pitoura, Evaggelia},
-  journal   = {Proc. VLDB Endow.},
-  publisher = {VLDB Endowment},
-  volume    = {19},
-  number    = {12},
-  year      = {2026},
-  note      = {Demonstration paper. To appear.}
+@article{iliadis2026provlepsis4j,
+  author  = {Iliadis, Evangelos and Gkartzios, Christos and Pitoura, Evaggelia},
+  title   = {Provlepsis4j: Querying Future Graphs in Neo4j},
+  journal = {Proceedings of the VLDB Endowment},
+  year    = {2026},
+  volume  = {19},
+  number  = {12},
+  pages   = {4770--4773},
+  doi     = {10.14778/3827998.3828118}
 }
 ```
 
